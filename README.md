@@ -1,6 +1,6 @@
 # Sales Data Analysis Dashboard
 
-A simple data analysis project using Python, SQL, and Pandas to explore and visualize sales data.
+A simple data analysis project using Python, SQL, and Pandas to explore and visualize sales data. This project analyzes and visualizes sales data using **Python**, **Pandas**, **SQL (SQLite)**, and **Streamlit**. It showcases data preprocessing, revenue calculation, and insights like top products and monthly trends — all in a simple interactive dashboard.
 
 ## Features
 - SQL queries using SQLite
@@ -8,6 +8,13 @@ A simple data analysis project using Python, SQL, and Pandas to explore and visu
 - KPI calculation (Revenue, Top Products, etc.)
 - Visualization with Matplotlib
 - dashboard using Streamlit
+
+## 🧰 Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Streamlit
+- SQLite
 
 ## How to Run
 1. Clone this repo
